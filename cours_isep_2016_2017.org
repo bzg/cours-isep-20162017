@@ -1,0 +1,312 @@
+#+TITLE: Cours ISEP 2016/2017 - Pensée, calcul et information
+
+* Cours n°1 - Autour du web contemporain
+
+** Sujets
+
+- Quelle est la différence entre Internet et le Web ?
+  - réseau centralisé, décentralisé, distribué
+  - notion de protocol: UDP, TCP/IP
+  - HTTP(S), FTP, SMTP, POP, IMAP
+
+- Wikipédia : [[http://www.slideshare.net/bzg/ressources-libres-pour-lducation-lesquelles-et-pourquoi-15552125][exposé]] / faire un premier edit
+
+- Le mouvement du logiciel libre : histoire et enjeux ([[http://www.slideshare.net/bzg/le-mouvement-du-logiciel-libre-et-de-lopen-source][diaporama]])
+
+- Le logiciel libre : 7 idées reçues ([[http://www.slideshare.net/bzg/logiciel-libreseptideesrecues][diaporama]])
+
+- Internet et l'éducation :  [[http://www.slideshare.net/bzg/lducation-linformatique-et-le-libre-prsentation-faites-pour-le-crans-2013][diaporama 1]], [[http://www.slideshare.net/bzg/interactivite2][diaporama 2]]
+
+- Internet et l'éducation : le projet OLPC
+
+- Les modèles économiques du libre ([[http://openmodels.fr/fr/][openmodels]], [[http://www.slideshare.net/bzg/free-softwareflossbusinessmodels][diaporama]])
+
+- Comment fonctionne l'index de Google ?
+
+- Comment fonctionne le graphe de Facebook ?
+
+** Ressources
+
+- https://fr.wikipedia.org/wiki/Histoire_d%27Internet
+
+* Cours n°2 - Enjeux techniques, politiques, sociologiques
+
+** Résumé du cours précédent
+
+- Internet / le Web
+  - ARPANET
+  - DARPA
+
+- Wikipédia
+
+- Creative Commons (voir [[http://www.slideshare.net/bzg/ressources-libres-pour-lducation-lesquelles-et-pourquoi-15552125][ce diaporama]] pour les licences CC)
+
+- Google / Facebook
+
+** Évolutions majeures du Web contemporain
+
+- Les grands vecteurs (GAFAM) :: enjeux de centralisation, de gestion
+     des données personnelles ;
+
+- Le big data :: simple buzzword ? réalité technique ? réalité
+     sociologique ?
+
+- L'open data :: le passage au numérique des administrations
+
+- Les écosystèmes fermés d'applications :: iStore, Google Play, etc.
+
+- Cloud computing :: stockage, calcul, PaaS
+
+- La revanche de javascript :: du web statique (HTML pur) au web
+     dynamique (client-serveur) aux applications web.
+
+- La neutralité du Net :: n'est pas la neutralité du web, ni le
+     filtrage, ni la censure.
+
+** Débat : faut-il enseigner le code à l'école ?
+
+- http://www.lemonde.fr/sciences/article/2016/11/02/en-2016-le-code-informatique-arrive-a-l-ecole_5024344_1650684.html
+
+Matrice des positions :
+
+- Quoi enseigner : informatique outil ou informatique objet ?
+
+- Comment l'enseigner : enseignement centré sur les disciplines vs
+  enseignement centré sur l'apprenant ?
+
+- Quels outils pour l'enseigner : des outils libres ou non ?
+
+- Quels langages utiliser : langages visuels vs écrits ?
+
+- Discipline transversale ou dédiée ?
+
+- Quels paradigmes : programmation déclarative vs impérative ?
+  Déclarative : 
+  - descriptive (ex HTML, XML, LaTeX)
+  - fonctionnelle (Lisp)
+  - ...
+
+- Les enjeux de l'école : former l'homme, le travailleur, le citoyen:
+  replacer les arguments autour de ces problématiques.
+    
+** Aux sources de l'utopie numérique, Fred Turner
+
+- Les deux gauches : Nouvelle Gauche et Nouveaux Communalistes
+- Technophobie dans ces deux gauches (e.g. Ken Kesey)
+- Stewart Brand and le Whole Earth Catalog (1968-1972) ([[https://fr.wikipedia.org/wiki/Whole_Earth_Catalog][WP]])
+- Whole Earth 'Lectronic Link (BBS 1985-) ([[https://fr.wikipedia.org/wiki/The_WELL][WP]]) ([[http://www.well.com/aboutwell.html][well.com]])
+
+** Ressources
+
+- https://fr.wikipedia.org/wiki/G%C3%A9ants_du_Web
+- https://fr.wikipedia.org/wiki/Neutralit%C3%A9_du_r%C3%A9seau
+
+* Cours n°3
+
+** Les débuts d'Internet
+
+Le but de ce cours est d'aborder l'histoire technique et culturelle du
+réseau des réseaux, avant l'essor du Web dans les années 90.
+
+- Les projets d'encyclopédies universelles avant 1950
+- L'article séminal de Vannevar Bush : « As we may think »
+- J. C. R. Licklider et « l'esprit augmenté »
+- L'émergence de l'informatique personnelle 70-80
+- L'évolution des interfaces graphiques
+- Alan Kay et l'ordinateur comme interface d'apprentissage
+- Tableau rapide de l'évolution des langages informatiques
+- ARPANET et les premiers réseaux
+- Les Bulletin Board Systems et la contre-culture digitale
+- Un cas particulier en France : le minitel
+- Vint Cerf, Tim Berners-Lee et l'explosion du « WWW »
+- La bulle Internet de 2000
+
+** Petite histoire du livre
+
+- Entre le 1er et le IVème siècle : rolex, volumen, codex
+
+- 1450 : Invention de l'imprimerie à caratères mobiles par Gutenberg.
+
+- 1522 : Première traduction de la bible en allemand.
+
+- 1570 : Première traduction des Éléments d'Euclide en anglais.
+
+- 1605 : Du progrès et de la promotion des savoirs, Francis Bacon.
+
+- 1606 : Pamphlet Galilée publié en italien.
+
+- 1609 : Invention/perfectionnement de la lunette astronomique par Galilée.
+
+- 1637 : Discours de la méthode, Descartes.
+
+** Remarques sur la petite histoire du livre
+
+- Vernaculaire / véhiculaire
+
+- Martin Luther et le nouveau rapport à la religion
+
+- Jack Goody et la raison graphique
+
+- Neil Postman et l'invention de l'enfance
+
+- Écriture, typographie, lecture silencieuse, communication,
+  uniformisation des symboles mathématiques, rapprochement des
+  communautés scientifiques, conquête de l'histoire.
+
+** Des mathématiques à l'informatique
+
+- XIXème : Cantor (infini) et Frege (logique mathématique)
+
+- 1910-13 : Principia mathematica, Whitehead et Russell.
+
+- 1930 : Le programme de Hilbert.
+
+- 1936 : Le problème de l'arrêt.
+
+- 1948 : Claude Shannon et la théorie de l'information.
+
+- 1950 : Le test de Turing.
+
+* Plan général
+
+*** De l'Internet des débuts au Web contemporain
+
+**** Les débuts d'Internet
+
+Le but de ce cours est d'aborder l'histoire technique et culturelle du
+réseau des réseaux, avant l'essor du Web dans les années 90.
+
+- Les projets d'encyclopédies universelles avant 1950
+- L'article séminal de Vannevar Bush : « As we may think »
+- J. C. R. Licklider et « l'esprit augmenté »
+- L'émergence de l'informatique personnelle 70-80
+- L'évolution des interfaces graphiques
+- Alan Kay et l'ordinateur comme interface d'apprentissage
+- Tableau rapide de l'évolution des langages informatiques
+- ARPANET et les premiers réseaux
+- Les Bulletin Board Systems et la contre-culture digitale
+- Un cas particulier en France : le minitel
+- Vint Cerf, Tim Berners-Lee et l'explosion du « WWW »
+- La bulle Internet de 2000
+
+**** Le Web contemporain
+
+ Ce cours dresse un portrait des grands acteurs du Web, fait un point
+ particulier sur le mouvement du logiciel libre, et conclut sur une
+ réflexion autour de l'impact des technologies contemporaines de
+ l'information sur notre manière d'aborder la connaissance.
+
+ - La recherche sur le web de 1998 à nos jours (Google)
+ - L'émergence des réseaux sociaux de 2005 à nos jours (Facebook)
+ - L'encyclopédie collaborative libre (Wikipédia)
+ - Le mouvement du logiciel libre des années 80 à nos jours
+ - Aux sources de l'utopie numérique (Fred Turner)
+ - Connaissance et information à l'âge de l'informatique ubiquitaire
+
+*** De la cybernétique à l'intelligence artificielle
+
+Ce cours remonte à la préhistoire des sciences cognitives pour
+comprendre la comparaison structurante cerveau-machine, puis
+d'esquisser une histoire de l'intelligence artificielle.
+
+- Les conférences Macy (1942 - 1953)
+- Norbert Wiener et la cybernétique
+- Noam Chomsky et la fin du béhaviorisme
+- Les réseaux neuronaux et la comparaison cerveau-machine
+- Computationalisme et connexionisme
+- L'IA et les échecs
+- L'IA et le jeu de go
+- L'IA et le test de Turing
+- Les sciences cognitives aujourd'hui
+- L'IA aujourd'hui (étude de cas : AlphaGo)
+
+*** L'émergence de la pensée formelle
+
+Le but de ce cours est d'appréhender la rencontre entre formalisation
+des systèmes de notation et mécanisation des règles de calcul.
+
+- L'évolution des systèmes de notations numériques
+- Pythagore et la mystique des nombres
+- Parenthèse philosophique : les nombres existent-ils ?
+- Euclide et l'invention de la démonstration
+- Aristote et l'invention de la logique
+- L'algèbre et le symbolisme en mathématiques (jusqu'à Descartes)
+- Les premières machines à calculer (Pascaline)
+- Leibniz et la « caractéristique universelle »
+- Calcul et hasard (Ian Hacking)
+
+**** Les techniques de calcul
+
+Le but de ce cours est de comprendre la révolution induite par la
+conception de la machine à calculer comme machine universelle.
+    
+- La machine universelle de Charles Babbage
+- Le premier programme informatique de Lady Lovelace
+- L'essor de la logique formelle entre 1850 et 1931
+- De la machine de Turing à la théorie de l'information
+- Enigma et les « bombes » de Turing
+- Les premiers ordinateurs
+- Des machines analogiques aux calculateurs numériques
+- Le calcul et la modélisation aujourd'hui
+
+*** Du livre à l'encyclopédie
+
+Le but de ce cours est d'aborder l'histoire de l'écriture et de
+l'écrit comme techniques de diffusion et de génération des idées.
+
+- Les formes d'écritures dans l'antiquité
+- Platon et la critique des livres
+- Les supports de l'écrit : du volumen au codex
+- L'évolution des modes de lecture
+- Les supports et techniques d'impression avant Gutenberg
+- La technique de l'imprimerie depuis Gutenberg
+- « Ceci tuera cela » (retour sur l'analyse de Victor Hugo)
+- Écriture et pensée : Jack Goody et la « raison graphique »
+- La diffusion de la culture du XVIème au XVIIIème (R. Darnton)
+- Le rôle des supports écrits dans la Révolution Française (R. Chartier)
+* Bibliographie
+
+- /Libres conseils.  Ce que nous aurions aimé savoir avant de
+  commencer./ 2013, Framasoft. http://framabook.org/libres-conseils/
+
+- Free Culture.  Lawrence Lessig.  The Penguin Press New York, 2004.
+
+- Réseaux, libertés, Contrôle, Benjamin Loveluck, [[http://www.armand-colin.com/reseaux-libertes-et-controle-une-genealogie-politique-dinternet-9782200293826][Armand Colin]], 2015.
+
+- http://openmodels.fr/en/ : business Models of the open economy,
+  coordinated by Louis-David Benyayer.
+
+- /L'économie du logiciel libre./ François Elie, Editions
+  Eyrolles, 2009.
+
+- La bataille du logiciel libre: Dix clés pour comprendre Plaidoyer en
+  10 points. par Thierry Noisette et Perline.  La Découverte, 2004,
+  ISBN 2-7071-4384-7 (nouvelle édition en 2006), 128 pages, 6.40
+  Euros. http://www.labatailledulogiciellibre.info
+
+- Les modèles économiques du logiciel libre.  2007.  Livre blanc
+  publié par l'APRIL ([[http://www.april.org/files/documents/200712-modeles-economiques.pdf][PDF]]).
+
+- Libres enfants du savoir numérique : Une anthologie du Libre.
+  Florent Latrive et Olivier Blondeau.  Éditions de l'éclat, 2000.
+
+- Logiciels libres, Open source: qu'est-ce que c'est ? Analyse neutre
+  des logiciels libres, synthèse claire, argumentaire
+  complet. Excellente introduction aux logiciels libres. Benoît
+  Chevalier.  Editions H&K, juillet 2005, ISBN 2-914010-64-8, 126
+  pages, 9.80 Euros.
+  http://www.h-k.fr/publications/technique_et_pratique.html#LLOS
+
+- /Open Advice.  FOSS: What We Wished We Had Known When We Started./
+  Ed. Lydia Pintscher. http://open-advice.org/
+
+- Richard Stallman et la révolution du logiciel libre par R. Stallman,
+  S. Williams et C. Masutti.  Editions Eyrolles, 2010.
+
+- The Cathedral and The Bazar. E. S. Raymond, O'Reilly Media, 1999.
+
+- /Tribune Libre.  Ténors de l'informatique libre./ O'Reilly
+  Media, 1999.
+
+- Utopie du logiciel libre. Sébastien Broca, Le Passager
+  Clandestin, 2013. http://lepassagerclandestin.fr/catalogue/essais/utopie-du-logiciel-libre.html
