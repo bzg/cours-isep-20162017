@@ -28,6 +28,7 @@
 ** Ressources
 
 - https://fr.wikipedia.org/wiki/Histoire_d%27Internet
+- https://interstices.info/jcms/d_80071/le-web-de-donnees
 
 * Cours n°2 - Enjeux techniques, politiques, sociologiques
 
